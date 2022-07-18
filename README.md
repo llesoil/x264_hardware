@@ -7,10 +7,3 @@ The docker image used to compute the measurements is public and available in [do
 
 Each sub-directory of the data folder is related to one hardware platform. 
 Each is composed of eight .csv files with the measurements (one per video, with the name of the related video) and a text file lscpu.txt with the return of the lscpu command-line. 
-
-Hereafter the id linking of the hardware platforms (Grid'5000 Site - Cluster - Processor) :
-
-1. Grenoble - dahu - Intel Xeon Gold 6130
-2. Grenoble - troll - Intel Xeon Gold 5218
-3. Grenoble - servan - AMD EPYC 7352
-
