@@ -15,9 +15,15 @@ Here are the id of the tested hardware platforms (following the structure Grid'5
 8. Lyon - nova - Intel Xeon E5-2620 v4
 9. Lyon - gemini - Intel Xeon E5-2698 v4
 10. Lyon - neowise - AMD EPYC 7642
-
+11. Lille - hetemi - Intel Xeon E5-2630 v4
+12. Lille - chifflet - Intel Xeon E5-2680 v4
+13. Lille - chiclet - AMD EPYC 7301
+14. Lille - chifflot - Intel Xeon Gold 6126
 
 Additionally, we measured it on others machines:
+
 A. raspberry pi
-B. my laptop
+
+B. laptop
+
 C. diversitas
