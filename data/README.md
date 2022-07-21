@@ -19,6 +19,15 @@ Here are the id of the tested hardware platforms (following the structure Grid'5
 12. Lille - chifflet - Intel Xeon E5-2680 v4
 13. Lille - chiclet - AMD EPYC 7301
 14. Lille - chifflot - Intel Xeon Gold 6126
+15. Nancy - graphite - Intel Xeon E5-2650
+16. Nancy - grisou - Intel Xeon E5-2630 v3
+17. Nancy - gros - Intel Xeon Gold 5220
+18. Nancy - grouille - AMD EPYC 7452
+19. Nancy -   - 
+20. Nancy -   - 
+21. Nancy -   - 
+
+Intel Xeon E5-2650
 
 Additionally, we measured it on others machines:
 
