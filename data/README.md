@@ -23,7 +23,7 @@ Here are the id of the tested hardware platforms (following the structure Grid'5
 16. Nancy - grisou - Intel Xeon E5-2630 v3
 17. Nancy - gros - Intel Xeon Gold 5220
 18. Nancy - grouille - AMD EPYC 7452
-19. Nancy -  - Intel Xeon E5-2620 v3
+19. Nancy - graphique - Intel Xeon E5-2620 v3
 20. Nancy - grue - AMD EPYC 7351
 21. Nancy - grimani - Intel Xeon E5-2603 v3
 22. Nancy - grele - Intel Xeon E5-2650 v4
@@ -31,7 +31,10 @@ Here are the id of the tested hardware platforms (following the structure Grid'5
 24. Nancy - graffiti - Intel Xeon Silver 4110
 25. Nancy - grappe - Intel Xeon Gold 5218R
 26. Nancy - gruss - AMD EPYC 7352
-
+27. Nantes - econome - Intel Xeon E5-2660
+28. Rennes - paranoia - Intel Xeon E5-2660 v2
+29. Rennes - paravance - Intel Xeon E5-2630 v3
+30. Sophia - uvb - Intel Xeon X5670
 
 Additionally, we measured it on others machines:
 
